@@ -40,4 +40,4 @@ In the next blog, we’ll dive into setting up Jetpack Compose in your Android p
 If you have any questions or comments, feel free to reach out to me on [GitHub](https://github.com/Akshar062).
 
 ## My Medium Blog
-Check out my [Medium blog](https://medium.com/@Akshar062) for more posts and updates on my journey with Jetpack Compose.
+Check out my [Medium blog]([https://medium.com/@Akshar062](https://medium.com/@axar2324/blog-1-starting-my-journey-with-jetpack-compose-an-introduction-to-the-series-8ba1f37f3660)) for more posts and updates on my journey with Jetpack Compose.
